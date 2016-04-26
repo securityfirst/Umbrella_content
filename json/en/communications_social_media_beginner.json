@@ -1,0 +1,79 @@
+[
+	{
+		"title": "Protecting Yourself on Social Networks",
+		"body": "<h1>Protecting Yourself on Social Networks</h1><p>Social networking sites are some of the most popular websites and tools we use on the Internet. Facebook, Google+, and Twitter have hundreds of millions of users each. With social networking platforms come many benefits, such as the unprecedented opportunity to communicate, publish, coordinate, and persuade. Many people use it for their professional as well personal lives. But, this also means that we're sharing a lot about ourselves online, usually more than we realise. In some cases, this can put our operations, our contacts, or us at risk.</p><img src=\"socialb1.png\"><p>When using social networks it is important to consider:<ul><li><How can I interact while protecting myself, my identity, my privacy and my contacts?</li><li>What information do I want keep private and who do I want to keep it private from?</li></ul></p><p>Depending on your circumstances, you may need to protect yourself against the social media site itself, against other users of the site, or both. </p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Take care registering ",
+		"body": "<h1>Take care registering </h1><p><ul><li>Consider whether you want to use your real name or not. Might you want to share things that could be dangerous if they were linked to you?</li><li>When you register, don't provide more information than is necessary. Do you really need to include your birthday/contact number/employment details?</li><li>If you are concerned with hiding your identity, use a separate email address. Be aware that your IP address may be logged at registration, so for full, guaranteed anonymity you may want to use a VPN or even Tor. </li><li>Consider using separate accounts/identities, or maybe different pseudonyms, for different campaigns and activities. </li><li>Choose a strong password, change it regularly and, if possible, enable two-factor authentication.</li><li>Beware of password recovery/security questions whose answers can be mined from your social media details. For example: ?What city were you born in?? or ?What is the name of your pet?? You may want to choose password recovery answers that are false. One good way to remember the answers to password recovery questions, should you choose to use false answers for added security, is to note your chosen answers in a password safe. See the <a href=\"umbrella://lesson/passwords\">Password lesson</a> for more information on how to choose and remember strong passwords.</li><li>Only connect to people you know personally and trust.</li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Check the Site's Privacy Policy",
+		"body": "<h1>Check the Site's Privacy Policy</h1><p>Remember that information you post on most social media sites does not belong you ? it is subject to the sites own policies and they can use it or share it with others. We know that reading privacy policies is a near-impossible task, but you may want to take a look at sections on how your data is used, when it is shared with other parties, and how the service responds to law enforcement requests.</p><img src=\"socialb2.png\"><p>Social networking sites often collect sensitive information beyond what you actually post?where you are, what interests and advertisements you react to, what other sites you've visited (e.g. through \"Like\" buttons). Be aware of what you like and repost if they may put you at risk. It can be helpful to block third-party cookies and use tracker-blocking browser extensions to make sure such information isn't being passively transmitted to third parties.</p><p>Some social networking sites, like Facebook and Twitter, have business relationships with data brokers in order to target advertisements more effectively. You can see guides that walk you through how to opt-out of these tracking schemes here:<br>? <a href=\"https://www.eff.org/deeplinks/2013/02/howto-opt-out-databrokers-showing-your-targeted-advertisements-facebook\">How to opt-out of Facebook's data broker relationships</a><br>? <a href=\"https://www.eff.org/deeplinks/2013/07/how-opt-out-twitters-tailored-advertisements-and-more\">How to opt-out of Twitter's data broker relationships</a></p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Change Your Privacy Settings",
+		"body": "<h1>Change Your Privacy Settings</h1><p>Specifically, change the default settings. For example:<ul><li>Do you want to share your posts with the public, or only with a specific group of people?</li><li>Should people be able to find you using your email address or phone number?</li><li>Do you want your location shared automatically?</li><li>See here for: <a href=\"https://www.eff.org/deeplinks/2013/01/how-protect-your-privacy-facebooks-graph-search\">How to change your Facebook privacy settings</a></li></ul></p><p>Remember, privacy settings are subject to change. Be sure to pay attention to these changes closely to see if any information that was once private will be shared, or if any additional settings will allow you to take more control of your privacy.</p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Think about what you share",
+		"body": "<h1>Think about what you share</h1><p>Always ask the questions:<ul><li>Who can access the information I am putting online?</li><li>Who controls and owns the information I put into a social networking site?</li><li>What information about me are my contacts passing on to other people?</li><li>Will my contacts mind if I share information about them with other people?</li><li>Do I trust everyone with whom I'm connected?</li></ul></p><p>Be careful about putting too much information into your status updates ? even if you trust the people in your networks. It is easy for someone to copy your information or unintentionally share something.</p><p>It's easy to share a link to a website and get your friend's attention. But who else will be paying attention, and what kind of reaction will they have? </p><img src=\"socialb3.png\">",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Sharing videos/photos",
+		"body": "<h1>Sharing videos/photos</h1><p>Photos and videos can reveal people's identities very easily. It's important that you have the consent of the subject/s of any photo or video that you post. If you are posting an image of someone else, be aware of how you may be compromising their privacy. Never post a video or photo of anyone without getting their consent first. As a good rule of thumb, don't post information, images, or updates about people you know if they aren't posting about themselves.</p><p>Photos and videos can also reveal a lot of information unintentionally. Many cameras will embed hidden data (metadata tags), that reveal the date, time and location of the photo, camera type, etc. Photo and video sharing sites may publish this information when you upload content to their sites.</p><p><a href=\"https://guardianproject.info/\">Guardian Project</a> has created an open-source app called <a href=\"umbrella://lesson/obscuracam\">ObscuraCam</a> to detect/select faces on photos and blur them. Obscuracam also deletes the original photos and if you have set up a server to upload the captured media, it provides an easy way to upload it.</p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Check what your friends share about you",
+		"body": "<h1>Check what your friends share about you</h1><p>Remember that you?re not the only person who can give away potentially sensitive data about yourself. Your friends can tag you in photos, report your location, and make their connections to you public in a variety of ways. You may have the option of untagging yourself from these posts, but privacy does not work retroactively. You may want to talk to your friends about what you do and do not feel comfortable having them share about you in public.</p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Think about what you join",
+		"body": "<h1>Think about what you join</h1><p>What information are you giving to people if you join a group or community? What does it say about you? Alternatively, what are people announcing to the world if they join a group or community that you have created? How are you putting people at risk?</p><p>Also if you join a group with a large number of members that you don't know, then this can compromise any privacy or security settings that you have applied to your account, so think about what information you are giving away before joining. Are you using your photo and real name so strangers can identify you?</p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": " Don?t rely social media sites",
+		"body": "<h1>Don?t use social media sites for instant chats</h1><p>Many social networking sites have tools that allow you to have discussions with your friends in real time. These operate like Instant Messaging and are one of the most insecure ways to communicate on the internet, both because they may reveal who you are communicating with, and what you are communicating about.</p><p>Never engage in chats with people you don?t know, especially those who want to send you documents or pictures. This is a method commonly used by authorities to put malware in activists? computers.</p><img src=\"socialb4.png\"><p>You should use a specific application for your chats, such as Pidgin with an Off-the-record plugin, which uses encryption. Read the <a href=\"umbrella://lesson/sending-a-message\">Sending a Message lesson</a> or <a href=\"umbrella://lesson/pidgin\">Pidgin tool guide</a> to find out how. </p><h2>Don?t rely on social media for storage</h2><p>Be cautious about how safe your content is on a social networking site. Never rely on a social networking site as a primary host for your content or information. It is very easy for governments to block access to a social networking site within their boundaries if they suddenly find its content objectionable. </p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Access sites securely ",
+		"body": "<h1>Access sites securely</h1><p>Access social networking sites using https:// to safeguard your username, password and other information you post. Using https:// rather than http:// adds another layer of security by encrypting the traffic from your browser to your social networking site. </p><p>Be careful when accessing your social network account in public internet spaces. Delete your password and browsing history when using a browser on a public machine.</p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "What now?",
+		"body": "<p>Swipe right for this lesson's checklist</p><h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href=\"umbrella://lesson/passwords\">Password lesson</a></li><li><a href=\"umbrella://lesson/facebook\">How to opt-out of Facebook's data broker relationships</a></li><li><a href=\"umbrella://lesson/facebook\">How to opt-out of Twitter's data broker relationships</a></li><li>How to change your Facebook privacy settings</li><li>ObscuraCam </li><li>Sending a Message lesson</li><li><a href=\"umbrella://lesson/pidgin\">Pidgin tool guide</a></li></ul></p><h3>FURTHER READING</h3><p><ul><li><li><a href=\"https://ssd.eff.org/en/module/protecting-yourself-social-networks\">EFF - Protecting yourself on social networks</a><li><a href=\"https://securityinabox.org/social_networking_tools\">Security in a Box - Social networking tools</a></li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Social Media",
+		"difficulty": "Beginner"
+	}
+]

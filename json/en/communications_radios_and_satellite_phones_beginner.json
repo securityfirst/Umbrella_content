@@ -1,0 +1,51 @@
+[
+	{
+		"title": "Why Radio",
+		"body": "<p>Radios are an insecure method of communication and should not be used for senstive communication if at all possible. If possible, use alternative options as outlined in the <a href=\"umbrella://lesson/making-a-call\">Making a Call lesson</a>. However many in the humanitarian field still need to use them sometimes. If necessary, develop a system of code words between those communicating so that your message will not be so easily understood.</p><img src=\"radios.png\">",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "VHF radios ",
+		"body": "<h1>VHF radios</h1><p>Very High Frequency (VHF) radios operate in the 30 to 300 MHz range. Usually handheld, they can communicate over short ranges, approximately 10 kilometers, in most cases. They are often referred to as ?line of sight,? though in many circumstances they can effectively reach beyond that. Thick trees and buildings can obstruct VHF signals. Elevating the VHF antenna may improve the radio?s transmission range. Also, installing a repeater, which automatically receives and re-transmits radio signals, can further extend the range. Repeater systems are reliable and require little maintenance. Before using a VHF radio or repeater, it may be necessary to obtain authorisation from the host government.</p><p>The advantages of VHF radios are:<ul><li>Fairly inexpensive; </li><li>User-friendly; </li><li>Sturdily built: can be dropped, withstands rain, etc.; </li><li>Well-positioned repeaters can increase area coverage; and </li><li>24-hour contact if users are monitoring the VHF.</li></ul></p><p>Disadvantages are:<ul><li>Not secure ? anybody can listen in;</li><li>Limited battery life (need for spare batteries/ongoing recharge); </li><li>Badly placed repeaters greatly limit the utility of the network; </li><li>Hand-held units are frequently lost or stolen; </li><li>Repeaters are very vulnerable to intentional damage; and </li><li>Highly dependent on the topography of the area (handset-to-handset, 2?5km; handset to base, mobile or repeater, 7?15km. Obstacles in between, such as high buildings or hills, will interfere with the signal; positioning on a high point can increase range).</li></ul></p><p>The most commonly used brand is Motorola. </p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "High Frequency radios",
+		"body": "<h2>High Frequency radios</h2><p>HF (High Frequency) radios, in the 3 to 30 MHz frequency range, allow voice communications over medium and long range (conceivably around the world). Less affected by obstacles, HF signals can ?bend? around hills and buildings and do not require repeaters to function over long ranges. However, the transmission range of HF signals may be influenced by time of day, weather conditions, electrical interference, and poor system configuration. It takes skill to achieve reliable HF connectivity over long distances. HF radios are often installed in vehicles or at base stations. HF systems are generally more expensive than VHF and require more maintenance. </p><p>The advantages of HF radios are: <ul><li>Short- to extremely long-range communication without a relay station; </li><li>Less affected by topographical variation; </li><li>High degree of independence; </li><li>Easy to network, with multiple stations sharing the frequency; </li><li>Messages can be sent simultaneously to multiple destinations; </li><li>Monitoring is simple; </li><li>Well-adapted for use in vehicles; </li><li>Adaptable to changing operational conditions; </li><li>Relatively cheap to purchase; no call charges; </li><li>Relatively easy to diversify functions of the network (voice, fax, GPS tracking, SITOR or PACTOR data transmission); </li><li>Possible to integrate with other networks (phone/email); and</li><li>Requires limited maintenance.</li></ul></p><p>The disadvantages are: <ul><li>Not secure ? anybody can listen in;</li><li>Requires registration and licensing in most countries; </li><li>Transmission strength varies during the day depending on solar activity; </li><li>?skip zone?: no reception between maximum extent of direct wave (ground wave)  and  longer  radius  starting  with  the  closest  reflections  from  the ionosphere; </li><li>Staff have to be trained in order to take full advantage of the network; and</li><li>Technical expertise needed for installation, and HF can interfere with other electronic equipment if not installed correctly.</li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Capabilities",
+		"body": "<p>A radio set should have the following capabilities. <ul><li>Remote diagnostics:  one unit can interrogate another to get details on operational factors such as power output, signal strength and battery voltage. This allows for diagnosis of potential impediments by a technician who does not have to be physically present at the unit. </li><li>Emergency call: distress signals are automatically sent out to a number of pre-programmed stations, prioritising the urgency of the call for the receiver. </li><li>A GPS connected to a personal computer with tracking software installed can interrogate a GPS connected to a mobile unit without the occupants of the vehicle being aware that this is happening. Vehicle movements can thus be monitored. Carefully consider the risks of others monitoring such tracking software before applying it.</li></ul></p><p>The most commonly used brands of HF radios are Codan and Barrett. </p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Radio procedures",
+		"body": "<h1>Radio procedures </h1><p>The benefits of radio equipment can be maximized by following simple standard radio procedures. </p><p><ul><li>Equipment is maintained in optimum condition.</li><li>Staff and visitors are trained in the use of radios.</li><li>All authorized frequencies and selective calling lists are posted at base stations and in mobile units.</li><li>Radios are monitored 24 hours a day in moderate, high, or severe risk alert countries.</li><li>Each communication has clarity, brevity and security. To ensure effective communication, use the following procedures: <ul><li>Ensure no one else is transmitting at the same time. Wait for ongoing discussions to finish and the users to sign off before beginning transmission. </li><li>Make message brief but precise. </li><li> Use common procedure words. </li><li> Use call signs instead of personal names. Do not identify organizations or personnel by name over the radio. </li><li>Break the message into sensible passages with clear pauses between.</li><li>Maintain clear speech with normal rhythm and moderate volume. </li><li>Hold the microphone approximately five centimeters from mouth. </li><li> Avoid excessive calling. Use radios for work-related purposes only. </li><li> Never transmit specific security-related information or travel plans or discuss transfer of cash or goods.</li></ul></li><li>Use of duress code words is encouraged for all risk levels. Duress code words are generally innocuous words or phrases selected for use over the radio or telephone to indicate that the speaker is in a threatening situation but not free to communicate.</li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "Satellite phones",
+		"body": "<h1>Satellite phones</h1><p>Satellite phones, which provide high-quality, direct-dial voice, fax, and e-mail, are often used to supplement a radio network, especially in moderate- to high-risk areas. Today?s satellite terminals are rugged, portable, and may be cheaper to operate than cellular phones in some areas. Modern satellite phone networks encrypt voice traffic to prevent eavesdropping and so are usually thought of as safer than radios. However, anyone with cheap computer equipment and radio could eavesdrop on calls by breaking this encryption quite easily.</p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"title": "What now?",
+		"body": "<p>Swipe right for this lesson's checklist</p><h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href=\"umbrella://lesson/making-a-call\">Making a Call</a></li></ul></p><h3>FURTHER READING</h3><p><ul><li><a href=\"www.odihpn.org/download/gpr_8_revised2pdf\">Good Practice Review Number 8: Operational security management in violent environments (Revised Ed.)e</a></li><li><a href=\"ngolearning.org/courses/availablecourses/CARE%20Safety%20Course/Shared%20Documents/English_CARE_International_Safety_and_Security_Handbook.pdf\">CARE International: Safety & Security Handbook</a></li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"title": "Why Satellite Phones",
+		"body": "<p>Satellite phones, which provide high-quality, direct-dial voice, fax, and e-mail, are often used to supplement a radio network, especially in moderate- to high-risk areas. Today?s satellite terminals are rugged, portable, and may be cheaper to operate than cellular phones in some areas. Modern satellite phone networks encrypt voice traffic to prevent eavesdropping and so are usually thought of as safer than radios. However, anyone with cheap computer equipment and radio could eavesdrop on calls by breaking this encryption quite easily.</p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "Dangers of Tracking",
+		"body": "<p>Satellite phones can be tracked with ease. Detecting radio frequency emissions is relatively simple for a trained technician with many commercially available tracking devices. Satellite phones can also be tracked through their own built-in GPS devices. GPS location data may be transmitted by a sat phone in the clear.</p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "Recommended Protocols",
+		"body": "<p>Experts recommend strict protocols when using satellite phones in a hostile environment:<ul><li>Avoid using a satellite phone (or any radio frequency-based device) from the same location more than once.</li><li>Avoid using a satellite phone or similar device from a location that cannot be easily evacuated in case of attack.</li><li>Keep the maximum length of any transmission to 10 minutes. (Some experts warn that even this could be too long, as instantaneous tracking is at least possible.)</li><li>Turn off the machine and remove its battery as soon as the transmission is over and before traveling.</li><li>Avoid having multiple parties transmit from the same location.</li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "Dangers of Breaking Encryption",
+		"body": "<p>Satellite transmissions, while encrypted, are not entirely secure either. Many governments are now capable of defeating encryption<ul><li>You should use code words in highly sensitive transmissions, or avoid satellite phones entirely for such communications.</li></ul></p><p>If your satellite phone is confiscated, authorities or hostile actors can access critical information from its call log, phone book, and sent folder.<ul><li>You should routinely delete call logs and sent folders to protect your sources, and that you keep the sim card separate from the phone when not transmitting.</li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "What now?",
+		"body": "<p>wipe right for this lesson?s checklist</p><p>Go the Beginner lesson for advice on using radios.<a href=\"umbrella://lesson/radio/1\" class=\"button green\">Go to Beginner Lesson</a></p><h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href=\"umbrella://lesson/making-call\">Making a call</a></li></ul></p><h3>FURTHER READING</h3><p><ul><li><a href=\"https://cpj.org/reports/2012/04/armed-conflict.php#6\">Committee to Protect Journalists</a></li><li><a href=\"smallworldnews.tv/Guide/Guide_SatPhone_English.pdf\">Small World News</a></li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	}
+]

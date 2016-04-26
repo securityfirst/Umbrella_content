@@ -1,0 +1,30 @@
+[
+	{
+		"title": "Get full access to your smartphone",
+		"body": "<h1>Get full access to your smartphone</h1><p>Firmware is the permanent software that a manufacturer programmes into a device?s read-only memory. They run in cooperation with the device's operating system and are responsible for basic operations of the hardware of your smartphone, such as the speaker, microphone, cameras, touchscreen, memory, keys, antennas, etc. Most functionalities are 'locked in' so the user is not capable of controlling or altering these functions. There are however, some applications and functionalities that can enhance the security of data and communications on a smartphone. Also there are some other existing functionalities that can be removed to avoid security risks.</p><p>For this, and other reasons, some smartphone users choose to alter the programs running the smartphone. The process of overcoming these manufacturer imposed limits on a smartphone is called rooting (in case of Android devices), or jailbreaking (in case of iOS devices, like iPhone or iPad). Successful rooting or jailbreaking will enable you to install additional applications, make modifications, and give you total control over data storage and memory of the smartphone in order to make it more secure.</p><p><i>WARNING:</i> Rooting or jailbreaking may not be a reversible process, and it requires experience with software installation and configuration. Consider the following:<ul><li>There is a risk of making your smartphone permanently inoperable, or 'bricking' it (i.e. turning it into a 'brick').</li><li>The manufacturer or mobile carrier warranty may be voided.</li><li>In some places, this process maybe illegal.</li></ul></p><img src=\"mobileexp1.png\"><p>But if you are careful, a rooted device is a straightforward way to gain more control over your smartphone to make it much more secure.</p><p>Rooting or jailbreaking is a complex process and different for every device. Search the internet for instructions on the best way to root your own device.</p>\t",
+		"category": "Communications",
+		"subcategory": "Mobile Phones",
+		"difficulty": "Expert"
+	},
+	{
+		"title": "Alternative Firmware",
+		"body": "<h1>Alternative Firmware</h1><p>Rooting your phone will allow you to install alternative firmware.<br>An example of an alternative firmware for some Android phones is <a href=\"http://cyanogenmod.com/\">Cyanogenmod</a> which allows you to uninstall applications from the system level of your phone. By doing so, you can reduce the number of ways in which your device can be monitored, such as data that is sent to your service provider without your knowledge. This sort of alternative firmware includes features such as the automatic concealment of your location when online by using a Virtual Private Network as default, and automatic incognito browsing meaning history of your communication is not recorded on your smartphone.</p>",
+		"category": "Communications",
+		"subcategory": "Mobile Phones",
+		"difficulty": "Expert"
+	},
+	{
+		"title": "Encryption of volumes",
+		"body": "<h1>Encryption of volumes</h1><p>Rooting your phone will also allow you to encrypt its entire data storage or create a volume on the smartphone to protect certain information.</p><p>Luks Manager allows easy, on-the-fly strong encryption of volumes with a user-friendly interface. We highly recommend that you install this tool before you start storing important data on your Android device and use the Encrypted Volumes that the <a href=\"https://play.google.com/store/apps/details?id=com.nemesis2.luksmanager&hl=en\">Luks Manager</a> provides to store all your data.</p><h1>Data encryption tools</h1><p>The Android Privacy Guard (APG) allows OpenGPG encryption for files and emails. It can be used to keep your files and documents safe on your phone, as well when emailing.<br>You can learn how to install and use it in the <a href=\"umbrella://lesson/k9-&-apg\">APG Guide</a> in the tool kit.</p><img src=\"mobileexp2.png\"><p><a href=\"https://code.google.com/p/cryptonite/\">Cryptonite</a> is another open source files encryption tool with more advanced features on it, and specially prepared for rooted Android phones with a custom firmware. </p>",
+		"category": "Communications",
+		"subcategory": "Mobile Phones",
+		"difficulty": "Expert"
+	},
+	{
+		"title": "What now?",
+		"body": "<p>Swipe right for this lesson's checklist</p><p>Go to the Beginner lesson for advice on the dangers of using mobile phones.</p><a href=\"umbrella://lesson/mobile-phones/0\" class=\"button green\">Go to Beginner Lesson</a>\n<h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href=\"umbrella://lesson/k9-&-apg\">APG Guide Tool</a></li></ul></p><h3>FURTHER READING</h3><p><ul><li><a href=\"https://securityinabox.org/en/guide/smartphones\">Security in a Box ? Chapter 11, Use smart phones as securely as possible</a></li></ul></p>",
+		"category": "Communications",
+		"subcategory": "Mobile Phones",
+		"difficulty": "Expert"
+	}
+]

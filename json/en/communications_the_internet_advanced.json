@@ -1,0 +1,30 @@
+[
+	{
+		"title": "Anonymity Online",
+		"body": "<h1>Anonymity Online</h1><p>Accessing information on the Internet, or publishing material online such as photos or videos, leaves many traces of who and where you are and what you are doing. This may put you at risk. You can reduce your risks through the use of anonymising tools such as Tor.</p><img src=\"interneta1.png\"><p><b>Remember, these tools can only protect your anonymity if you do not log in to sites or post something online that could identify you!</b></p>",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "Tor",
+		"body": "<h1>Tor</h1><p>Tor is free and open-source software that provides anonymity as well as allowing you to circumvent censorship. When you use Tor, the information you transmit is safer because your traffic is bounced around a distributed network of servers. This can provide anonymity, since the computer with which you?re communicating will never see your IP address, but instead will see the IP address of the last Tor router through which your traffic travelled.</p><p>One of Tor's strengths is that it does not just work with a browser but can be used with various types of Internet software. Email programs, including Mozilla Thunderbird, and instant messaging programs, including Pidgin, can operate through Tor, either to access filtered services or to hide your use of those services.</p><p>Tor is the gold standard for secure censorship circumvention. It can be slow and tricky to use. However, it also provides a reliable, secure and public means of circumvention that saves you from having to worry about whether or not you trust the individuals who operate your proxies and the websites you visit. Tor is open source and can be downloaded free online for Windows, Mac, Linux, and Android.</p><p>To learn how to install and use Tor, see the <a href=\"umbrella://lesson/tor-for-windows\">Tor tool guide</a>.</p>",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "Anonymity online on your mobile",
+		"body": "<h1>Anonymity online on your mobile</h1><h2>Orbot and Orweb</h2><p>Orbot is a free proxy app that enables other apps to use the internet more securely. It uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. This process takes a little longer, but the strongest privacy and identity protection available is worth the wait.<br>To learn how to install and use Orbot, see the <a href=\"umbrella://lesson/orbot-&-orweb\">Orbot tool guide</a>. </p><p>Orweb is the safest browser on Android. Orbot and Orweb together circumvent web filters and firewalls, and offer a truly private internet connection. Both apps are available for Android and iPhone.To learn how to install and use Orweb, see the <a href=\"umbrella://lesson/orbot-&-orweb\">Orweb tool guide</a>. </p><p><b>Remember, these tools can only protect your anonymity if you do not log in to sites or post something online that could identify you!</b></p>",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "What now?",
+		"body": "<p>Swipe right for this lesson's checklist</p><p>Go to the Beginner lesson for advice on how to circumvent censorship.</p><a href=\"umbrella://lesson/the-internet/0\" class=\"button green\">Go to Beginner Lesson</a><h3>RELATED LESSONS/TOOLS</h3><p><ul><li>Tor for Mac tool guide</li><li><a href=\"umbrella://lesson/tor-for-windows\">Tor for Windows tool guide</a></li><li><a href=\"umbrella://lesson/orbot-&-orweb\">Orbot tool guide</a></li><li><a href=\"umbrella://lesson/orbot-&-orweb\">Orweb tool guide</a></li></ul></p><h3>FURTHER READING</h3><p><ul><li><a href=\"https://securityinabox.org/en/guide/anonymity-and-circumvention\">Security in a Box - Anonymity and circumvention</a></li></ul></p>",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Advanced"
+	}
+]

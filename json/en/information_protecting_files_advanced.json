@@ -1,0 +1,44 @@
+[
+	{
+		"title": "How to protect sensitive files",
+		"body": "<h1>How to protect sensitive files</h1><p>Many human rights activists have sensitive information that could have serious consequences if seen by the wrong people. The <a href=\"umbrella://lesson/managing-information\">Managing Information lesson</a> can help you determine your threat model. Following the steps laid out in the Home/Office section and the <a href=\"umbrella://lesson/malware\">Malware</a> lesson will help you to protect your computer physically and digitally. However there may be situations where these precautions fail or you need to show your computer to someone whom you don?t want to see the files. This is why you should also protect the files themselves. You can do this by encrypting them so that only you can read them.</p><img src=\"protecting1.png\"><p>Encryption is a way to enhance the security of a message or file by scrambling the contents so that it can only be read by someone who has the right encryption key to unscramble it.Many activists use TrueCrypt, but serious vulnerabilities have recently been found in it. <a href=\"https://veracrypt.codeplex.com/wikipage?title=Downloads\">VeraCrypt</a> is a good, free, open-source, alternative that we recommend instead. Much like a safe, VeraCrypt creates an encrypted container on your computer or hard drive, that you can put as many files as you like into.</p><p>We will shortly be creating a tool guide for VeraCrypt. For now, users can get a step-by-step guide of how to use and install it <a href=\"https://veracrypt.codeplex.com/wikipage?title=Beginner%27s%20Tutorial\">here</a>.</p>",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "Tips on using file encryption safely",
+		"body": "<h1>Tips on using file encryption safely</h1><p>There are a few things you should bear in mind when using TrueCrypt and tools like it. No matter how sturdy your safe is, it won't do you a whole lot of good if you leave the door open. When your TrueCrypt volume or container is 'mounted' (what it calls open to view your files), your data may be vulnerable, so you should keep it closed except when you are actually reading or modifying the files inside it.</p><p>There are a few situations when it is especially important that you remember to ?dismount? (what it calls close) your encrypted volume:<ul><li>Dismount it when you walk away from your computer for any length of time. Even if you typically leave your computer running overnight, you need to ensure that you do not leave your sensitive files accessible to physical or remote intruders while you are gone.</li><li>Dismount it before putting your computer to sleep.</li><li>Dismount it before allowing someone else to handle your computer. When taking a laptop through a security checkpoint or border crossing, it is important that you disconnect all encrypted volumes and shut your computer down completely.</li><li>Dismount it before inserting an untrusted USB memory stick or other external storage device, including those belonging to friends and colleagues.</li><li>If you keep an encrypted volume on an external hard drive or a USB stick, remember that just removing the device may not immediately disconnect the volume. Even if you need to secure your files in a hurry, you have to dismount the volume properly, then disconnect the external drive or memory stick, then remove the device.</li></ul></p>",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "A secret safe within a safe",
+		"body": "<h1>A secret safe within a safe</h1><p>One of the weaknesses with some encryption tools is their visibility ? you may be worried that someone could find the encrypted volume, see that you were trying to conceal information, and use intimidation, blackmail or interrogation to force you into opening it.</p><p>However VeraCrypt allows you to create a secret volume, inside your regular encrypted volume, to hide your most sensitive information. It is similar to installing a secret 'false bottom' inside your office safe. If an intruder steals your key, or intimidates you into giving them the safe's combination, they will find some convincing decoy material, but not the information that you truly care about protecting.</p><p>You open this secret volume by providing an alternate password that is different from the one you would normally use. Even if a technically sophisticated intruder gains access to the standard volume, he will be unable to prove that a hidden one exists.</p>",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "Hiding your encryption",
+		"body": "<h1>Hiding your encryption</h1><p>If you are concerned about encryption software being found on your computer regardless of what?s in it, there are a few tricks to help disguise VeraCrypt.</p><p><ul><li>You can rename your encrypted volume to look like a different type of file. Using the '.iso' file extension, to disguise it as a CD image, is one option that works well for large volumes of around 700 MB. Other extensions would be more realistic for smaller volumes.</li><li>You can also rename the VeraCrypt program itself, assuming you have stored it as you would a regular file, rather than installing it as a program. The <a href=\"umbrella://lesson/truecrypt\">VeraCrypt Guide</a> explains how to do this.</li></ul></p>",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "When encryption is illegal",
+		"body": "<h1>When encryption is illegal</h1><p>Encryption is illegal in some countries, which means that downloading, installing or using software of this sort might be a crime in its own right. Any time that merely being associated with encryption software would be enough to expose you to accusations of criminal activity or espionage (regardless of what is actually inside your encrypted volumes), then you will have to think carefully about whether or not such tools are appropriate for your situation.</p><p>If that is the case, you have a few options:<ul><li>Store only non-confidential information</li><li>Use a system of code words to protect key elements of your sensitive files</li><li>Store all of your sensitive information in a secure webmail account ? you would need a reliable network connection and an advanced understanding of computers and Internet services</li><li>Keep sensitive information off of your computer by storing it on a USB stick or portable hard drive ? carrying around sensitive, unencrypted information is usually a very bad idea so you would need to keep the device in a very secure place</li></ul></p>",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"title": "What now?",
+		"body": "<p>Swipe right for this lesson's checklist</p><h3>RELATED LESSONS/TOOLS</h3><p><ul><li><a href=\"umbrella://lesson/managing-information\">Managing Information Lesson</a></li><li><a href=\"umbrella://lesson/office\">Office Lesson</a></li><li><a href=\"umbrella://lesson/malware\">Malware Lesson</a></li><li><a href=\"umbrella://lesson/truecrypt\">TrueCrypt Tool Guide</a></li></ul></p><h3>FURTHER READING</h3><p><ul><li><a href=\"https://ssd.eff.org/en/module/what-encryption\">EFF - Encryption</a></li><li><a href=\"https://securityinabox.org/chapter-4\">Security in a Box - Chapter 4, Encryption</a></li></ul></p>",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	}
+]
