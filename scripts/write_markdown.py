@@ -14,7 +14,7 @@
 # FITNESS FOR A PARTICULAR PURPOSE. See the included LICENSE file for details.
 
 # Example command line
-# python3 scripts/json_view.py -i json/en -H html/en -M md/en
+# python3 scripts/write_markdown.py -i json/en -H html/en -M md/en
 
 import argparse
 import json
@@ -64,7 +64,10 @@ def write_html_from_json(filename, in_path, out_path):
         with open(full_filepath + ".html", 'w+') as html_file:
             if isinstance(obj, list):
                 log.debug("File {0} is a text file".format(filename))
-                html_file.write(obj[0]['body'])
+                for section in obj:
+                    log.info("Writing section {0} to HTML file".format(section['title']))
+                    html_file.write(section['body'])
+                    html_file.write("\n\n")
             elif filename == "strings.json":
                 log.debug("File {0} is the strings file for translation.".format(filename) +
                           " But, I will parse it anyway. Because I'm the best." +

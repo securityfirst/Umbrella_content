@@ -38,3 +38,63 @@ more control over your smartphone to make it much more secure.
 Rooting or jailbreaking is a complex process and different for every
 device. Search the internet for instructions on the best way to root
 your own device.
+
+Alternative Firmware
+====================
+
+Rooting your phone will allow you to install alternative firmware.\
+An example of an alternative firmware for some Android phones
+is [Cyanogenmod](http://cyanogenmod.com/) which allows you to uninstall
+applications from the system level of your phone. By doing so, you can
+reduce the number of ways in which your device can be monitored, such as
+data that is sent to your service provider without your knowledge. This
+sort of alternative firmware includes features such as the automatic
+concealment of your location when online by using a Virtual Private
+Network as default, and automatic incognito browsing meaning history of
+your communication is not recorded on your smartphone.
+
+Encryption of volumes
+=====================
+
+Rooting your phone will also allow you to encrypt its entire data
+storage or create a volume on the smartphone to protect certain
+information.
+
+Luks Manager allows easy, on-the-fly strong encryption of volumes with a
+user-friendly interface. We highly recommend that you install this tool
+before you start storing important data on your Android device and use
+the Encrypted Volumes that the [Luks
+Manager](https://play.google.com/store/apps/details?id=com.nemesis2.luksmanager&hl=en)
+provides to store all your data.
+
+Data encryption tools
+=====================
+
+The Android Privacy Guard (APG) allows OpenGPG encryption for files and
+emails. It can be used to keep your files and documents safe on your
+phone, as well when emailing.\
+You can learn how to install and use it in the [APG
+Guide](umbrella://lesson/k9-&-apg) in the tool kit.
+
+![](mobileexp2.png)
+
+[Cryptonite](https://code.google.com/p/cryptonite/) is another open
+source files encryption tool with more advanced features on it, and
+specially prepared for rooted Android phones with a custom firmware.
+
+Swipe right for this lesson's checklist
+
+Go to the Beginner lesson for advice on the dangers of using mobile
+phones.
+
+[Go to Beginner Lesson](umbrella://lesson/mobile-phones/0)
+
+### RELATED LESSONS/TOOLS
+
+-   [APG Guide Tool](umbrella://lesson/k9-&-apg)
+
+### FURTHER READING
+
+-   [Security in a Box ? Chapter 11, Use smart phones as securely as
+    possible](https://securityinabox.org/en/guide/smartphones)
+
