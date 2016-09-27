@@ -1,0 +1,26 @@
+[
+	{
+		"text": "Avoid regular SMS messages for sensitive texts",
+		"category": "Communications",
+		"subcategory": "Sending a message",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use TextSecure or ChatSecure for messages on your phone",
+		"category": "Communications",
+		"subcategory": "Sending a message",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use WhatsApp only if individual Android to Android chat",
+		"category": "Communications",
+		"subcategory": "Sending a message",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use Pidgin or Adium instead of Skype to instant message on your computer",
+		"category": "Communications",
+		"subcategory": "Sending a message",
+		"difficulty": "Beginner"
+	}
+]

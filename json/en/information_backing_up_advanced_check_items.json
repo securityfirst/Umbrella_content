@@ -1,0 +1,50 @@
+[
+	{
+		"text": "Make a table with info type, device and location",
+		"category": "Information",
+		"subcategory": "Backing Up",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Identify your vulnerable information",
+		"category": "Information",
+		"subcategory": "Backing Up",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Figure out what storage device is right for you",
+		"category": "Information",
+		"subcategory": "Backing Up",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Install Cobian Backup",
+		"category": "Information",
+		"subcategory": "Backing Up",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Organise your files to back up",
+		"category": "Information",
+		"subcategory": "Backing Up",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Back up information on regular schedule",
+		"category": "Information",
+		"subcategory": "Backing Up",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Install Recuva",
+		"category": "Information",
+		"subcategory": "Backing Up",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "If recovering files, do as little as possible before using Recuva",
+		"category": "Information",
+		"subcategory": "Backing Up",
+		"difficulty": "Advanced"
+	}
+]

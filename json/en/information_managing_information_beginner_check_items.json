@@ -1,0 +1,56 @@
+[
+	{
+		"text": "Implement 'need to know' policy",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Delete any unnecessary sensitive information",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Make a list of information that you keep, where it?s kept, who has access to it, and what stops others from accessing it",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Make a list of who might want to get a hold of your information",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Note what your adversary might want to do with your information",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Note the likelihood of your adversaries attacking",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Note the capability of your adversaries to attack",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Note what the consequences are if the attack succeeds",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Note what you are you willing to go through in order to try to prevent them",
+		"category": "Information",
+		"subcategory": "Managing Information",
+		"difficulty": "Beginner"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"text": "Avoid using from the same location more than once",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Avoid using from a location that cannot be easily evacuated in case of attack",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Keep transmission under 10 minutes",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Turn off and remove battery as soon as the transmission is over and before traveling",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Avoid having multiple parties transmit from the same location",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Use code words in highly sensitive transmissions, or avoid satellite phones entirely",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Routinely delete call logs and sent folders",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Keep the sim card separate from the phone when not transmitting",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Advanced"
+	}
+]

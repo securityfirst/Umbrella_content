@@ -1,0 +1,134 @@
+[
+	{
+		"text": "Make sure it says HTTPS in browser before you log in",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Download the HTTPS Everywhere browser add-on",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "If using Gmail, set up 2-Step Verification",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Create a RiseUp account if possible",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use secure email services hosted in safe countries",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use same email provider as sensitive contacts",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Be careful opening email attachments",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "If needed, use different email accounts for different groups",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "If needed, use a code for sensitive information",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use strong passwords",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Protect your computer from malware",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Do not use phone as primary means for email",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "If your email has been hacked",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Don’t send any sensitive information",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Change your password",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Reclaim your account",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Determine who to alert/what to cancel",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Find out how you were compromised",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Review security on all devices",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Consider reporting it",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Consider moving to more secure account",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Avoid storing read emails",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Beginner"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"text": "Install and use PGP",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "If you need to protect your metadata, use Tor",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Consider using pseudonym with your public key",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "To disguise contact completely, both parties use anonymous email accounts, Tor and PGP",
+		"category": "Communications",
+		"subcategory": "Email",
+		"difficulty": "Advanced"
+	}
+]

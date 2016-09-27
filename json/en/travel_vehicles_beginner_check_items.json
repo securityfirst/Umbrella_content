@@ -1,0 +1,386 @@
+[
+	{
+		"text": "WEAR A SEATBELT",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Park in well lit, busy places",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Close windows and lock doors on leaving",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Have keys in hand returning to vehicle",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Lock doors on entry",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Open windows no more than 5cm",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Do not speed",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Observe local driving regulations",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Avoid driving at night/alone",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Avoid letting fuel tank fall below half full",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Keep spare key in office",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Don’t carry unauthorized passengers unless threatened",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Meet incoming staff on arrival",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Vary regular journey times/routes",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Have alternate routes planned",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Avoid criminal areas and chokepoints",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Consult with other agencies",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Notify team of travel plans",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Mark vehicles appropriately",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Avoid transporting sensitive items through volatile areas",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Journey considerations",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Recent incidents",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Weather",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Length",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Communications",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Checkpoints/ other dangerous points",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Safe ‘waypoints’",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Refuelling stops",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Food stops",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Plan in case of breakdown",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Appropriate vehicle type",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Ethnicity of driver if dangerous area",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Checks",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Tyres",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Seatbelts",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Fuel",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Brakes",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Oil",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Steering",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Loading",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Keep in vehicle",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Communication equipment and key telephone numbers",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Additional fuel & oil",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Water",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Maps",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "GPS",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Spare parts for car",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Spare wheel (x2) and jack",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Basic tools",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Fluorescent warning triangle",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Tow rope",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "First aid kit",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Torch",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Permission to travel, if required",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Visas",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Car documents",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Driver’s licence & insurance",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Personal ID",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Organisational ID if possible",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Medical vaccination certificates ",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Food",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Water",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Cold/ hot weather clothing",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Blankets/ shade structure",
+		"category": "Travel",
+		"subcategory": "Vehicles",
+		"difficulty": "Beginner"
+	}
+]

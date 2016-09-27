@@ -1,0 +1,50 @@
+[
+	{
+		"text": "Avoid radios for sensitive communications",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Ensure proper training in radio usage",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use code words if necessary",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Pre-program distress signals",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Carefully consider use of GPS tracking software",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Do not identify organisations or individuals over radio",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Never transmit security-related information or travel plans",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Set duress code words",
+		"category": "Communications",
+		"subcategory": "Radios and Satellite Phones",
+		"difficulty": "Beginner"
+	}
+]

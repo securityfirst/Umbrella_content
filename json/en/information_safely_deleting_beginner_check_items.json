@@ -1,0 +1,38 @@
+[
+	{
+		"text": "If Windows user, install Eraser",
+		"category": "Information",
+		"subcategory": "Safely Deleting",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Securely delete individual files as needed",
+		"category": "Information",
+		"subcategory": "Safely Deleting",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Securely delete all previously deleted data every month",
+		"category": "Information",
+		"subcategory": "Safely Deleting",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "If getting rid of old hardware, wipe the hard drive",
+		"category": "Information",
+		"subcategory": "Safely Deleting",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "If throwing out CDs, shred them",
+		"category": "Information",
+		"subcategory": "Safely Deleting",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Encrypt SSD, USBs and SD cards",
+		"category": "Information",
+		"subcategory": "Safely Deleting",
+		"difficulty": "Beginner"
+	}
+]

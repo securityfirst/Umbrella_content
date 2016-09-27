@@ -1,0 +1,56 @@
+[
+	{
+		"text": "Assess your threat model",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Download HTTPS everywhere",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use domain name variations",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use a web-based proxy",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Check which VPN is right for you",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Download and use Psiphon3",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "For smartphones",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Download Firefox mobile and Proxy Mobile",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Download and use Psiphon3",
+		"category": "Communications",
+		"subcategory": "The Internet",
+		"difficulty": "Beginner"
+	}
+]

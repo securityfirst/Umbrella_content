@@ -1,0 +1,26 @@
+[
+	{
+		"text": "Check if rooting your phone is right for you",
+		"category": "Communications",
+		"subcategory": "Mobile Phones",
+		"difficulty": "Expert"
+	},
+	{
+		"text": "Install alternative firmware",
+		"category": "Communications",
+		"subcategory": "Mobile Phones",
+		"difficulty": "Expert"
+	},
+	{
+		"text": "Encrypt volumes with Luks Manager",
+		"category": "Communications",
+		"subcategory": "Mobile Phones",
+		"difficulty": "Expert"
+	},
+	{
+		"text": "Encrypt files and emails with APG",
+		"category": "Communications",
+		"subcategory": "Mobile Phones",
+		"difficulty": "Expert"
+	}
+]

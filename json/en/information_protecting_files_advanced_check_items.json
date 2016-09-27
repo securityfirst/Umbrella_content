@@ -1,0 +1,62 @@
+[
+	{
+		"text": "Set up VeraCrypt",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Dismount your VeraCrypt volume when not using files",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Create a secret volume for most sensitive material",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Rename your VeraCrypt volume with a different file extension",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Rename the VeraCrypt program",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "If encryption is illegal…",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Store only non-confidential information",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Use code words",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Store sensitive information in a secure webmail account",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	},
+	{
+		"text": "Store sensitive information securely off your computer",
+		"category": "Information",
+		"subcategory": "Protecting Files",
+		"difficulty": "Advanced"
+	}
+]

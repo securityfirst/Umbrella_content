@@ -1,0 +1,62 @@
+[
+	{
+		"text": "Avoid regular phone calls for sensitive conversations",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use Ostel or Redphone for calls on your phone",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use Jitsi instead of Skype on your computer",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "If you must use Skype",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Download from official website",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Change password regularly",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Adjust settings so you don’t keep chat history",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Verify who you’re speaking to",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Consider using anonymous username",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	},
+	{
+		"text": "Use codes for sensitive topics",
+		"category": "Communications",
+		"subcategory": "Making a call",
+		"difficulty": "Beginner"
+	}
+]
