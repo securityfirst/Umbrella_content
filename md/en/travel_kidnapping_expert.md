@@ -83,13 +83,13 @@ Swipe right for this lesson's checklist
 Go to the Beginner lesson for advice on how to avoid kidnapping.
 
 Go to the Beginner lesson for advice on how to avoid kidnapping.[Go to
-Beginner Lesson](umbrella://lesson/kidnapping/1)
+Beginner Lesson](umbrella://lesson/kidnapping/1){.button .green}
 
 Go to the Advanced lesson for advice on survival techniques if you are
 kidnapped.
 
 Go to the Beginner lesson for advice on how to avoid kidnapping.[Go to
-Advanced Lesson](umbrella://lesson/kidnapping/2)
+Advanced Lesson](umbrella://lesson/kidnapping/2){.button .yellow}
 
 ### RELATED LESSONS/TOOLS
 

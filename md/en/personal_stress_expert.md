@@ -80,12 +80,12 @@ Swipe right for this lesson's checklist
 
 Go to the Beginner Lesson for advice on how to deal with chronic stress.
 
-[Go to Beginner Lesson](umbrella://lesson/stress/0)
+[Go to Beginner Lesson](umbrella://lesson/stress/0){.button .green}
 
 Go to the Advanced Lesson for advice on how to deal with traumatic
 stress.
 
-[Go to Advanced Lesson](umbrella://lesson/stress/1)
+[Go to Advanced Lesson](umbrella://lesson/stress/1){.button .yellow}
 
 ### FURTHER READINGS
 

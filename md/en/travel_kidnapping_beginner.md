@@ -119,10 +119,12 @@ detailed advice.
 Swipe right for this lesson's checklist
 
 Go to the Advanced lesson for advice on survival techniques if you are
-kidnapped.[Go to Advanced Lesson](umbrella://lesson/kidnapping/2)
+kidnapped.[Go to Advanced
+Lesson](umbrella://lesson/kidnapping/2){.button .yellow}
 
 Go to the Expert lesson for advice on what to do if a staff member is
-kidnapped.[Go to Expert Lesson](umbrella://lesson/kidnapping/3)
+kidnapped.[Go to Expert Lesson](umbrella://lesson/kidnapping/3){.button
+.purple}
 
 ### RELATED LESSONS/TOOLS
 

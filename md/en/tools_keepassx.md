@@ -170,16 +170,16 @@ right. This will pop up a password generator dialog, which you can use
 to generate a random password. There are several options in this dialog,
 including what sorts of characters to include and how long to make the
 password.\
- \* Note that if you generate a random password, it?s not necessary that
+\* Note that if you generate a random password, it?s not necessary that
 you remember (or even know!) what that password is! KeePassX stores it
 for you, and any time you need it you?ll be able to copy/paste it into
 the appropriate program. This is the whole point of a password safe?you
 can use different long random passwords for *each* website/service,
 without even knowing what the passwords are!\
- \* Because of this, you should make the password as long as the service
+\* Because of this, you should make the password as long as the service
 will allow and use as many different types of characters as possible.\
- \* Once you?re satisfied with the options, click ?Generate? in the
-lower right to generate the password, and then click ?OK.? The generated
+\* Once you?re satisfied with the options, click ?Generate? in the lower
+right to generate the password, and then click ?OK.? The generated
 random password will automatically be entered in the ?Password? and
 ?Repeat? fields for you. (If you?re not generating a random password,
 then you?ll need to enter your chosen password again in the ?Repeat?

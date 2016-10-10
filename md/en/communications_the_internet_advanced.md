@@ -65,7 +65,8 @@ Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on how to circumvent censorship.
 
-[Go to Beginner Lesson](umbrella://lesson/the-internet/0)
+[Go to Beginner Lesson](umbrella://lesson/the-internet/0){.button
+.green}
 
 ### RELATED LESSONS/TOOLS
 

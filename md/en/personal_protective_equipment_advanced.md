@@ -41,7 +41,7 @@ that they could be mistaken for either riot police or demonstrators.
 Swipe right for this lesson?s checklist
 
 Go to the Beginner lesson for advice on what to pack in a grab bag.[Go
-to Beginner Lesson](umbrella://lesson/protective/1)
+to Beginner Lesson](umbrella://lesson/protective/1){.button .green}
 
 ### RELATED LESSONS/TOOLS
 

@@ -277,7 +277,8 @@ Swipe right for this lesson's checklist
 Go to the Expert lesson for advice on how to root and encrypt your
 phone.
 
-[Go to Expert Lesson](umbrella://lesson/mobile-phones/2)
+[Go to Expert Lesson](umbrella://lesson/mobile-phones/2){.button
+.purple}
 
 ### RELATED LESSONS/TOOLS
 

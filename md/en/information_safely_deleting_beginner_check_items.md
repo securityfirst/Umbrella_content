@@ -1,0 +1,4 @@
+If Windows user, install Eraser Securely delete individual files as
+needed Securely delete all previously deleted data every month If
+getting rid of old hardware, wipe the hard drive If throwing out CDs,
+shred them Encrypt SSD, USBs and SD cards

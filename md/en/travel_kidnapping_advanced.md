@@ -103,10 +103,11 @@ only).
 Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on how to avoid kidnapping.[Go to
-Beginner Lesson](umbrella://lesson/kidnapping/1)
+Beginner Lesson](umbrella://lesson/kidnapping/1){.button .green}
 
 Go to the Expert lesson for advice on what to do if a staff member is
-kidnapped.[Go to Expert Lesson](umbrella://lesson/kidnapping/3)
+kidnapped.[Go to Expert Lesson](umbrella://lesson/kidnapping/3){.button
+.purple}
 
 ### RELATED LESSONS/TOOLS
 

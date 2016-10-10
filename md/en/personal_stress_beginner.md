@@ -189,12 +189,12 @@ Swipe right for this lesson's checklist
 Go to the Advanced Lesson for advice on how to deal with traumatic
 stress.
 
-[Go to Advanced Lesson](umbrella://lesson/stress/1)
+[Go to Advanced Lesson](umbrella://lesson/stress/1){.button .yellow}
 
 Go to the Expert Lesson for advice on how to deal with post-traumatic
 stress.
 
-[Go to Expert Lesson](umbrella://lesson/stress/2)
+[Go to Expert Lesson](umbrella://lesson/stress/2){.button .purple}
 
 ### FURTHER READINGS
 

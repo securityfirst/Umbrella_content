@@ -1,0 +1,3 @@
+Check if rooting your phone is right for you Install alternative
+firmware Encrypt volumes with Luks Manager Encrypt files and emails with
+APG

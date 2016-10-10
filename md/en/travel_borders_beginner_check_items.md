@@ -1,0 +1,21 @@
+Before you go Identify all sensitive information and where its carried
+Bring minimal data Bring clean equipment Carry equipment in hand luggage
+Bring small encrypted storage devices Bring notebook that you can rip
+pages from Bring tamper proof scotch tape Check bag/wallets before
+travelling Entering country Agree what you’ll say/ not say Say nothing
+sensitive on plane Consider approaching immigration separately Provide
+only minimal info on activities Be prepared to be questioned on passport
+Be polite but firm Decide on which accommodation to report If separated
+from equipment, assume it’s compromised Keep phones and Wi-Fi off till
+out of airport Agree meeting point with colleagues In country Use codes
+for sensitive written info Be careful with receipts that could link you
+to activists Avoid collecting paper reports Keep sensitive info
+separately/ encrypted Dispose of sensitive notes ASAP Minimize sensitive
+info you share Change up your travel routes Avoid walking alone at night
+Ask hotel staff not to share info about you Memorize emergency phone
+numbers Agree emergency signal with colleagues Always wear seatbelts!
+Exiting country Prepare for stop and search Make sure all sensitive
+notes are remote/encrypted Back up all equipment remotely Check
+room/pockets/wallet for sensitive papers Soak sensitive waste papers in
+water Agree what to say at border with colleagues Keep equipment with
+you at all times

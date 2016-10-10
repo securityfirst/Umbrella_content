@@ -44,7 +44,7 @@ folder.
 wipe right for this lesson?s checklist
 
 Go the Beginner lesson for advice on using radios.[Go to Beginner
-Lesson](umbrella://lesson/radio/1)
+Lesson](umbrella://lesson/radio/1){.button .green}
 
 ### RELATED LESSONS/TOOLS
 

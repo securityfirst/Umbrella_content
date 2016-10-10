@@ -2,8 +2,8 @@ K9 & APG TOOL GUIDE
 ===================
 
 K9 & APG Tool Guide\
- Encrypted email for Android
-----------------------------
+Encrypted email for Android
+---------------------------
 
 **Lesson to read: [Email](umbrella://lesson/email)**\
 **Download Location: \

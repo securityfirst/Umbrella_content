@@ -93,7 +93,7 @@ Swipe right for this lesson's checklist
 Go to the Beginner lesson for advice on how to improve basic email
 security and know if my email has been hacked.
 
-[Go to Beginner Lesson](umbrella://lesson/email/0)
+[Go to Beginner Lesson](umbrella://lesson/email/0){.button .green}
 
 ### RELATED LESSONS/TOOLS
 

@@ -109,12 +109,14 @@ Swipe right for this lesson's checklist
 Go to the Advanced Lesson for advice on how to practice
 counter-surveillance when you are out on foot.
 
-[Go to Advanced Lesson](umbrella://lesson/counter-surveillance/1)
+[Go to Advanced
+Lesson](umbrella://lesson/counter-surveillance/1){.button .yellow}
 
 Go to the Expert Lesson for advice on how to practice
 counter-surveillance when you are out in a vehicle.
 
-[Go to Expert Lesson](umbrella://lesson/counter-surveillance/2)
+[Go to Expert Lesson](umbrella://lesson/counter-surveillance/2){.button
+.purple}
 
 ### RELATED LESSONS/TOOLS
 

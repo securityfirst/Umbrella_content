@@ -87,7 +87,8 @@ Swipe right for this lesson's checklist
 Go to the Beginner lesson for advice on the dangers of using mobile
 phones.
 
-[Go to Beginner Lesson](umbrella://lesson/mobile-phones/0)
+[Go to Beginner Lesson](umbrella://lesson/mobile-phones/0){.button
+.green}
 
 ### RELATED LESSONS/TOOLS
 

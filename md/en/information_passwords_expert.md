@@ -42,11 +42,11 @@ Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on how to create a strong password.
 
-[Go to Beginner Lesson](umbrella://lesson/passwords/0)
+[Go to Beginner Lesson](umbrella://lesson/passwords/0){.button .green}
 
 Go to the Advanced lesson for advice on how to manage your passwords.
 
-[Go to Advanced Lesson](umbrella://lesson/passwords/1)
+[Go to Advanced Lesson](umbrella://lesson/passwords/1){.button .yellow}
 
 ### RELATED LESSONS/TOOLS
 

@@ -1,0 +1,4 @@
+Avoid regular SMS messages for sensitive texts Use TextSecure or
+ChatSecure for messages on your phone Use WhatsApp only if individual
+Android to Android chat Use Pidgin or Adium instead of Skype to instant
+message on your computer

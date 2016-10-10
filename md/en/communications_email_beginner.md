@@ -250,7 +250,7 @@ Swipe right for this lesson's checklist
 Go to the Advanced lesson for advice on how to send encrypted emails for
 sensitive information.
 
-[Go to Advanced Lesson](umbrella://lesson/email/1)
+[Go to Advanced Lesson](umbrella://lesson/email/1){.button .yellow}
 
 ### RELATED LESSONS/TOOLS
 

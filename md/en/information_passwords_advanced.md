@@ -110,12 +110,12 @@ Swipe right for this lesson's checklist
 
 Go to the Beginner lesson for advice on how to create a strong password.
 
-[Go to Beginner Lesson](umbrella://lesson/passwords/0)
+[Go to Beginner Lesson](umbrella://lesson/passwords/0){.button .green}
 
 Go to the Expert lesson for advice on what to do if you think you might
 be forced to hand over your password.
 
-[Go to Expert Lesson](umbrella://lesson/passwords/2)
+[Go to Expert Lesson](umbrella://lesson/passwords/2){.button .purple}
 
 ### RELATED LESSONS/TOOLS
 

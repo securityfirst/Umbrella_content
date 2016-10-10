@@ -1,93 +1,39 @@
-action\_settings : Settings tour\_slide\_3\_text : Use checklists to
-mark your progress results : results title\_activity\_about : Licences
-checklist : Checklist beginner : Beginner no\_feed\_items\_label : There
-is currently no results with your chosen settings. Please tap to revise
-and change them feeds : Dashboard advanced : Advanced
-passwords\_do\_not\_match : Passwords do not match.
-skip\_password\_warning : Are you sure you want to continue using the
-app without setting the password?\\n\\nThis significantly diminishes
-your safety in regards with any identifiable data you input into
-Umbrella incorrect\_password : Password incorrect. Please try again.
-disable\_password : Don\\'t ask for password again no\_feed\_updates :
-There were no news updates for your chosen country, pull to refresh.
-view\_all\_checlists : View all the checklists you’ve started and see
-your progress half\_hour : 30 min no\_network\_message : No network
-connection available. Please try again later. default\_db\_password :
-umbrella feed\_sources : Feed sources dashboard : Dashboard
-search\_query\_needs\_to\_be\_at\_least : The search query needs to be
-at least 3 characters long btn\_skip : Accept log\_in : Log In
-refresh\_umbrella\_data : Refresh from the server delete : Delete
-set\_location : Your location open\_drawer : Open password\_one\_capital
-: Password must have at least one capital letter
-review\_sources\_for\_feed : Please review sources you want for your
-feed thank\_you\_html :
-
-THANK YOU
----------
-
-Umbrella would not be possible without the work, advice, friendship and
-cups of tea from our friends at:\
-
-Amnesty International
-
-Ashoka Foundation
-
-CARE International
-
-Centre for Safety and Development
-
-Committee to Project Journalists
-
-Dart Center for Journalism and Trauma
-
-Electronic Frontier Foundation
-
-European Commission\\'s Humanitarian Aid and Civil Protection Department
-
-European Interagency Security Forum
-
-Frontline Defenders
-
-Humanitarian Response
-
-iiLab
-
-Internews
-
-LevelUp
-
-Open Technology Fund
-
-Overseas Development Institute
-
-Protection International
-
-Rory Peck Trust
-
-Small World News
-
-Tactical Technology Collective
-
-The Engine Room
-
-The Guardian Project
-
-Videre
-
-And many other wonderful people!
-
-skip : Skip yes : Yes slide : "Slide " login\_password : Log in with
-your password reset\_password\_title : Confirm reset password pw\_hint :
-Password section1\_tab\_title3 : Checklist enable : Enable
-no\_sources\_selected : No sources selected terms\_conditions : Terms
-and Conditions password\_reset\_notification : Password reset and all
-data removed. password\_one\_digit : Password must have at least one
-digit mark\_off\_tasks : Mark off tasks as you complete them\\n\\nHold
-down on a task to delete or disable it add\_own\_checklist\_item : Add
-your own checklist item\\n my\_security : My Security hours : hours
+no\_feed\_settings : You haven\\'t set the country and the sources for
+the feed yet. You have to do it in order for the feed to start
+displaying, and you can change it any time later in the settings.
 set\_password\_body : Your password must be at least 8 characters long
-and must contain at least one digit and one capital letter\\n
-tour\_slide\_1\_text : Umbrella makes your security simple
+and must contain at least one digit and one capital letter\\n hours :
+hours set\_password\_title : Set your password title\_activity\_about :
+Licences hour : hour search\_query\_needs\_to\_be\_at\_least : The
+search query needs to be at least 3 characters long my\_checklists : My
+Checklists slide : "Slide " section1\_tab\_title2 : Case Study ok : OK
+cancel : Cancel search : Search yes : Yes skip\_password\_warning : Are
+you sure you want to continue using the app without setting the
+password?\\n\\nThis significantly diminishes your safety in regards with
+any identifiable data you input into Umbrella found\_for\_this\_query :
+found for this query incorrect\_password : Password incorrect. Please
+try again. checklist : Checklist feeds : Dashboard
+action\_export\_checklist : Share checklist feed\_location\_label : Set
+the location for your feeds current\_location : Current location
+check\_lists\_total : Check lists total star\_this\_checklist : Star
+this checklist to make it one of your favourites\\n\\nClick here to
+share checklist open\_drawer : Open title\_activity\_search : Search
+results tour\_slide\_2\_text : Get advice on everything from sending a
+secure email to safe travel mark\_off\_tasks : Mark off tasks as you
+complete them\\n\\nHold down on a task to delete or disable it
+content\_reset\_to\_default : Content reset to default
+click\_here\_to\_change\_level : Click here to change level expert :
+Expert action\_settings : Settings password\_one\_small : Password must
+have at least one small letter add\_own\_checklist\_item : Add your own
+checklist item\\n view\_all\_checlists : View all the checklists you’ve
+started and see your progress licences : Licences no : No
+refresh\_interval\_feeds : Refresh interval for feeds delete : Delete
+btn\_skip : Accept set\_password : Set password total\_done : Total done
+navigation\_drawer\_open : Open navigation drawer login\_password : Log
+in with your password refresh\_umbrella\_data : Refresh from the server
+section1\_tab\_title3 : Checklist set\_location : Your location
+checking\_for\_updates : Checking for updates my\_security : My Security
+log\_out : Log out password\_too\_short : Password too short
 licences\_html :
 
 CONTRIBUTING LICENCES
@@ -1056,40 +1002,39 @@ return for a fee.
 
 END OF TERMS AND CONDITIONS
 
-click\_here\_to\_change\_level : Click here to change level
+review\_sources\_for\_feed : Please review sources you want for your
+feed half\_hour : 30 min passwords\_do\_not\_match : Passwords do not
+match. filled : filled lat\_updated : Last updated no\_feed\_updates :
+There were no news updates for your chosen country, pull to refresh.
 no\_check\_items\_started\_on\_yet : No check items started on yet
-current\_location : Current location navigation\_drawer\_close : Close
-navigation drawer star\_this\_checklist : Star this checklist to make it
-one of your favourites\\n\\nClick here to share checklist
-tour\_slide\_2\_text : Get advice on everything from sending a secure
-email to safe travel reset\_password\_text : Are you sure you want to
-reset your password? This also means losing any data you might have
-entered so far\\n found\_for\_this\_query : found for this query
-checking\_for\_updates : Checking for updates disable : Disable
-lat\_updated : Last updated my\_checklists : My Checklists
-navigation\_drawer\_open : Open navigation drawer section1\_tab\_title2
-: Case Study title\_activity\_lesson : LessonActivity
-content\_reset\_to\_default : Content reset to default
-hello\_blank\_fragment : Hello blank fragment thank\_you : Thank You no
-: No set\_password\_title : Set your password close\_drawer : Open
-title\_activity\_search : Search results hour : hour
-title\_activity\_tour : Tour password\_too\_short : Password too short
-check\_lists\_total : Check lists total no\_results\_label : No results
-found skip\_password\_title : Skip setting password
-swipe\_left\_to\_read : Swipe left to read through the lesson or click
-on a tab to go straight to that section\\n\\nYou can also skip straight
-to the checklist manually : Manually tour\_slide\_4\_text : Stay up to
-date with the latest information on where you are
-set\_location\_source\_in\_settings : Please set sources and location in
-the settings search : Search refresh\_interval\_feeds : Refresh interval
-for feeds licences : Licences choose\_refresh\_inteval : Choose refresh
-interval: result\_while\_searching\_for : result while searching for
-search\_result : search result select\_feed\_sources : Select The Feed
-Sources favourite : Favourite you\_have\_added\_new\_item : You have
-added a new item. expert : Expert
+log\_in : Log In default\_db\_password : umbrella manually : Manually
+click\_to\_add\_new\_tasks : Click here to add new tasks – you’ll need
+to create a password for this! title\_activity\_tour : Tour
 you\_have\_successfully\_set\_your\_password : You have successfully set
-your password. choose\_stronger\_password : "You must choose a stronger
-password. " terms\_html :
+your password. beginner : Beginner set\_location\_source\_in\_settings :
+Please set sources and location in the settings no\_results\_label : No
+results found section1\_tab\_title1 : Lesson hello\_world : Hello world!
+disable\_password : Don\\'t ask for password again tour\_slide\_3\_text
+: Use checklists to mark your progress swipe\_left\_to\_read : Swipe
+left to read through the lesson or click on a tab to go straight to that
+section\\n\\nYou can also skip straight to the checklist disable :
+Disable navigation\_drawer\_close : Close navigation drawer
+no\_network\_message : No network connection available. Please try again
+later. action\_search : Search tour\_slide\_1\_text : Umbrella makes
+your security simple text\_item\_has\_to\_be\_longer : The item text has
+to be longer than that results : results advanced : Advanced
+no\_feed\_items\_label : There is currently no results with your chosen
+settings. Please tap to revise and change them add\_new\_checkitem : Add
+a new check item no\_sources\_selected : No sources selected
+skip\_password\_title : Skip setting password action\_finish : Finish
+country\_selected : Country selected result\_while\_searching\_for :
+result while searching for unfauvorite : Unfavourite enable : Enable
+close\_drawer : Open select\_feed\_sources : Select The Feed Sources
+choose\_refresh\_inteval : Choose refresh interval: reset\_password :
+Reset Password select\_action : Select an action terms\_conditions :
+Terms and Conditions you\_have\_added\_new\_item : You have added a new
+item. btn\_login : Login hello\_blank\_fragment : Hello blank fragment
+reset\_password\_title : Confirm reset password terms\_html :
 
 **Most important Terms and Privacy points**
 
@@ -1133,20 +1078,71 @@ advertisements. Its development is supported by grants and training
 revenue. Like us, almost all the tools we recommend are free,
 open-source, and where appropriate, end-to-end encrypted.
 
-country\_selected : Country selected section1\_tab\_title1 : Lesson
-action\_export\_checklist : Share checklist intermediate : Advanced
-action\_finish : Finish swipe\_to\_view\_menu : Click here or swipe from
-the side of your screen to view the menu at any time select\_action :
-Select an action text\_item\_has\_to\_be\_longer : The item text has to
-be longer than that add\_new\_checkitem : Add a new check item
-set\_password : Set password unfauvorite : Unfavourite app\_name :
-Umbrella feed\_location\_label : Set the location for your feeds
-total\_done : Total done hello\_world : Hello world!
-click\_to\_add\_new\_tasks : Click here to add new tasks – you’ll need
-to create a password for this! reset\_password : Reset Password log\_out
-: Log out filled : filled btn\_login : Login password\_one\_small :
-Password must have at least one small letter no\_feed\_settings : You
-haven\\'t set the country and the sources for the feed yet. You have to
-do it in order for the feed to start displaying, and you can change it
-any time later in the settings. cancel : Cancel ok : OK action\_search :
-Search action\_next : Next
+action\_next : Next app\_name : Umbrella feed\_sources : Feed sources
+title\_activity\_lesson : LessonActivity password\_reset\_notification :
+Password reset and all data removed. intermediate : Advanced skip : Skip
+pw\_hint : Password reset\_password\_text : Are you sure you want to
+reset your password? This also means losing any data you might have
+entered so far\\n dashboard : Dashboard thank\_you : Thank You
+search\_result : search result password\_one\_digit : Password must have
+at least one digit password\_one\_capital : Password must have at least
+one capital letter favourite : Favourite thank\_you\_html :
+
+THANK YOU
+---------
+
+Umbrella would not be possible without the work, advice, friendship and
+cups of tea from our friends at:\
+
+Amnesty International
+
+Ashoka Foundation
+
+CARE International
+
+Centre for Safety and Development
+
+Committee to Project Journalists
+
+Dart Center for Journalism and Trauma
+
+Electronic Frontier Foundation
+
+European Commission\\'s Humanitarian Aid and Civil Protection Department
+
+European Interagency Security Forum
+
+Frontline Defenders
+
+Humanitarian Response
+
+iiLab
+
+Internews
+
+LevelUp
+
+Open Technology Fund
+
+Overseas Development Institute
+
+Protection International
+
+Rory Peck Trust
+
+Small World News
+
+Tactical Technology Collective
+
+The Engine Room
+
+The Guardian Project
+
+Videre
+
+And many other wonderful people!
+
+choose\_stronger\_password : "You must choose a stronger password. "
+swipe\_to\_view\_menu : Click here or swipe from the side of your screen
+to view the menu at any time tour\_slide\_4\_text : Stay up to date with
+the latest information on where you are
