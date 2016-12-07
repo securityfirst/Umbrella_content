@@ -65,9 +65,14 @@ def write_html_from_json(filename, in_path, out_path):
             if isinstance(obj, list):
                 log.debug("File {0} is a text file".format(filename))
                 for section in obj:
-                    log.info("Writing section {0} to HTML file".format(section['title']))
-                    html_file.write(section['body'])
-                    html_file.write("\n\n")
+                    if 'title' in section and 'body' in section:
+                        log.info("Writing section {0} to HTML file".format(section['title']))
+                        html_file.write(section['body'])
+                        html_file.write("\n\n")
+                    elif 'text' in section:
+                        log.info("Writing check item {0} to HTML file".format(section['text']))
+                        html_file.write(section['text'])
+                        html_file.write("\n\n")
             elif filename == "strings.json":
                 log.debug("File {0} is the strings file for translation.".format(filename) +
                           " But, I will parse it anyway. Because I'm the best." +
