@@ -47,7 +47,7 @@ security of your mobile phone, go the **Mobile Phone Lesson.**
     -   **For communicating**: Textsecure and RedPhone (for Androids) or
         Signal (for iPhones)
     -   **For filming/photographing:**ObscuraCam and InformaCam
-    -   **For emergencies:** Panic Button (Android only)
+    -   **For emergencies:** [Panic Button](https://panicbutton.io/) (Android only)
 -   **Back up your data:** It?s important that you frequently back up
     the data stored on your phone, especially if your device lands into
     the hands of a police officer. You may not get your phone back for a
