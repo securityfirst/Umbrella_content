@@ -12,7 +12,7 @@ This is the first export of Umbrella so there may be issues and inaccuracies, pl
 
 ##Contributing Content and/or Translating
 
-We are currently translating Umbrella into other languages. You can see our progress and volunteer to translate on our [Transifex] (https://github.com/securityfirst/Umbrella_content). Many thanks to the awesome team at the [Localization Lab] (http://www.localizationlab.org) for helping us conduct such as massive undertaking!
+We are currently translating Umbrella into other languages. You can see our progress and volunteer to translate on our [Transifex] (https://www.transifex.com/otf/umbrella-app/). Many thanks to the awesome team at the [Localization Lab] (http://www.localizationlab.org) for helping us conduct such as massive undertaking!
 
 For more information, please see our [translator information document] (https://github.com/securityfirst/Umbrella_content/blob/master/TRANSLATION.md).
 
