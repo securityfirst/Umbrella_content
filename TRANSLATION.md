@@ -27,13 +27,13 @@ Throughout the content for translation you may see slightly strange thinks link 
 
 These are internal links. Please don’t translate or break them (by adding extra characters etc). These are internal links used for navigation around the Umbrella. If they are broken then users often get error screens. 
 
-If you notice anything broken or which needs to be updated, please make an issue on our [Content Github] (https://github.com/securityfirst/Umbrella_content/issues) or drop us a mail to info@secfirst.org.
+If you notice anything broken or which needs to be updated, please make an issue on our [Content Github](https://github.com/securityfirst/Umbrella_content/issues) or drop us a mail to info@secfirst.org.
 
 ## Transifex 
-The easiest method of translation through our [Transifex account] (https://www.transifex.com/otf/umbrella-app/dashboard/). Our awesome friends over the [Localization Lab] (http://www.localizationlab.org/)  help manage a group of volunteer translators for Umbrella and other open source projects through it. You setup an account and then contribute by translating individual strings. You can find a guide to getting started as a translator [here] (http://docs.transifex.com/getting-started/translators/).
+The easiest method of translation through our [Transifex account](https://www.transifex.com/otf/umbrella-app/dashboard/). Our awesome friends over the [Localization Lab](http://www.localizationlab.org/)  help manage a group of volunteer translators for Umbrella and other open source projects through it. You setup an account and then contribute by translating individual strings. You can find a guide to getting started as a translator [here] (http://docs.transifex.com/getting-started/translators/).
 
 ## GitHub 
-If you prefer to work with a Github workflow. We have our English content available here in different formats. The app uses .JSON files so they or Markdown .MD are the easiest for us to work with. You can access them here: [.json] (https://github.com/securityfirst/Umbrella_content/tree/master/json/en), Word [.doc] (https://github.com/securityfirst/Umbrella_content/tree/master/doc/en), Open Document [.odt] (https://github.com/securityfirst/Umbrella_content/tree/master/odt/en) and [HTML] (https://github.com/securityfirst/Umbrella_content/tree/master/html/en).
+If you prefer to work with a Github workflow. We have our English content available here in different formats. The app uses .JSON files so they or Markdown .MD are the easiest for us to work with. You can access them here: [.json](https://github.com/securityfirst/Umbrella_content/tree/master/json/en), Word [.doc](https://github.com/securityfirst/Umbrella_content/tree/master/doc/en), Open Document [.odt](https://github.com/securityfirst/Umbrella_content/tree/master/odt/en) and [HTML](https://github.com/securityfirst/Umbrella_content/tree/master/html/en).
 
 ## Thanks 
 Thanks so much for your work. We care about your privacy but would also like to thank you for your work in Umbrella. If your ok with that, please let us know and we can add your name to the "Thank You" part of the "About" section. If you see us in person, we owe you a beer or coffee :)
