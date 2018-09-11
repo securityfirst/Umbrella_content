@@ -1,4 +1,6 @@
-## This is an export of the content that we use in Umbrella App  
+## This is an old export of the content that we use in Umbrella App  
+
+The most recent export (September 2018) is in a [Google Doc] (https://docs.google.com/document/d/1mG0Wyec5ULc_BDofKJvZRJW2qhqH-3aJqbtYVcmcl-w/edit?usp=sharing). Let us know if you need another format. 
 
 You can download Umbrella on [Google Play](https://play.google.com/store/apps/details?id=org.secfirst.umbrella), [Amazon](https://www.amazon.com/Security-First-Umbrella-made-easy/dp/B01AKN9M1Y), [Github](https://github.com/securityfirst/Umbrella_android), or our [F-Droid Repo](https://secfirst.org/fdroid/repo) 
 
